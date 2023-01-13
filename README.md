@@ -25,5 +25,5 @@ This app also includes a user-friendly proposal editor, where you can easily wri
 
 
 <p align="center">
-  <img src="screenshots/1.png" width="180" height="350"  <img src="screenshots/2.png" width="180" height="350"><img src="screenshots/3.png" width="180" height="350"><img src="screenshots/4.png" width="180" height="350"><img src="screenshots/5.png" width="180" height="350"><img src="screenshots/6.png" width="180" height="350"><img src="screenshots/7.png" width="180" height="350">
+  <img src="screenshots/1.png" width="180" height="350">  <img src="screenshots/2.png" width="180" height="350"><img src="screenshots/3.png" width="180" height="350"><img src="screenshots/4.png" width="180" height="350"><img src="screenshots/5.png" width="180" height="350"><img src="screenshots/6.png" width="180" height="350"><img src="screenshots/7.png" width="180" height="350">
 </p>
